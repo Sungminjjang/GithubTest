@@ -8,6 +8,7 @@ int read_lin(char str[], int limit);
 int main() {
 	char buffer[buffer_size];
 	int k;
+	printf("Git Test Sentence2\n");
 	while (1)
 	{
 		printf("$ ");
